@@ -5,7 +5,7 @@ const Main = () => {
       <div class="card text-start w-50">
         <div class="card-header">
           <ul class="nav nav-pills card-header-pills">
-            <li class="nav-item">
+            <li class="btn btn-primary">
               <a class="nav-link active" href="#">
                 HTML
               </a>
